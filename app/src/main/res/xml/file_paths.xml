@@ -1,0 +1,21 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <paths>-->
+<!--        <external-path-->
+<!--            name="download"-->
+<!--            path="" />-->
+<!--    </paths>-->
+    <paths>
+        <external-path
+            name="Download"
+            path="" />
+        <external-path
+            name="appTest" />
+        path="" />
+        <external-path
+            name="files_root"
+            path="Android/data/com.mobcb.hotfixdemo/" />
+        <external-path
+            name="external_storage_root"
+            path="." />
+    </paths>
+</resources>

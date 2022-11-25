@@ -1,1 +1,1 @@
-引用地址 implementation 'com.github.906418161:mvvm:Tag'
+引用地址 implementation 'com.github.906418161:mvvm:最新版本号'
